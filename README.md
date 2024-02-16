@@ -53,4 +53,5 @@ Follow these instructions to get the project up and running on your local machin
 6. Open your web browser and visit `http://localhost:8000` to view the application.
 
 
+![Screenshot 2024-02-16 172802](https://github.com/samratchakraborty422000/EMP-MANAGEMENT-DJANGO/assets/121852717/29e11873-bbe5-4d4c-bcad-50745b14293a)
 
